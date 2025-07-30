@@ -14,12 +14,12 @@ This Power BI dashboard visualizes weather trends across 7 different cities and 
 - Line charts for hourly trend , AQI chart 
 
 ## 📸 Screenshots
-![Dashboard Overview](Weather_dashboard/WeatherDashboard.PNG)
-![Model Overview](Weather_dashboard/Model_view.PNG)
+![Dashboard Overview](WeatherDashboard.PNG)
+![Model Overview](Model_view.PNG)
 
 ## 📂 Files Included
-- `Weather_API_project.pbix` – Power BI file
-- `images/` – screenshots of visuals and model
+    Weather_API_project.pbix 
+
 
 ## 📘 How to Use
 1. Clone or download the repo
